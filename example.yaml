@@ -1,0 +1,6 @@
+host: gitlab.com
+token: <gitlab-token> # with read_api and read_repository permissions
+groups:
+  - 1111 # Group 1
+  - 2222 # Group 2
+  - 3333 # Group 3
